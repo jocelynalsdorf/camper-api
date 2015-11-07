@@ -45,3 +45,7 @@ li {
 .content {
   padding-left:18px;
 }
+
+.mdl-card__media {
+    text-align: center;
+}
