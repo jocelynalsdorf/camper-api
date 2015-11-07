@@ -21,7 +21,6 @@
   font-family: 'Maven Pro', sans-serif;
   font-weight:700;
   font-size: 37px;
- 
 
 }
 .mdl-layout__header--scroll .mdl-layout__header-row {
@@ -29,4 +28,20 @@
   width: auto;
 }
 
-
+ul {
+  list-style: none;
+}
+li {
+  padding:0;
+}
+.mdl-card {
+  min-height: 260px;
+  width: 32%;
+  margin:5px;
+}
+.grid {
+  margin: 0 25px;
+}
+.content {
+  padding-left:18px;
+}
